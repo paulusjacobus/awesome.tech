@@ -6,7 +6,7 @@ To relieve our web site from the heavy download traffic, we have posted our sour
 Please let us know if you are missing any files and we will add them asap.
 
 MiniGerbil firmware name = MGfirmwareV8_grbl20719.hex
-Legacy Gerbil firmware =
+Legacy Gerbil firmware = grblUploadgoldnoalarmboot(1).zip
 Super Gerbil firmware =
 
 Thank you,
