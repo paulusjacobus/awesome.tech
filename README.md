@@ -5,6 +5,10 @@ To relieve our web site from the heavy download traffic, we have posted our sour
 
 Please let us know if you are missing any files and we will add them asap.
 
+MiniGerbil firmware
+Legacy Gerbil firmware
+Super Gerbil firmware
+
 Thank you,
 
 Awesome.Tech
