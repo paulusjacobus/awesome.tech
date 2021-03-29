@@ -7,7 +7,7 @@ Please let us know if you are missing any files and we will add them asap.
 
 The firmware can be downloaded from this page and flashed with a ST Link V2 dongle (Mini/Super Gerbils only) or with an Arduino dongle (legacy Gerbil only)
 
-Newest production firmware 32 bits MiniGerbil firmware name = stm32grblVER1_1f_20210229.hex Dated:29-03-2021
+Newest production firmware 32 bits MiniGerbil firmware name = stm32grblVER1_1f_20210329.hex Dated:29-03-2021
 
 Includes now:
 
