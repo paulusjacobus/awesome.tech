@@ -17,7 +17,7 @@ Bugfix for motion speed. Increased the stepper motor speeds to 400mm/sec.
 Bugfix for motor step driver duration. Previously the step duration was fixed to 10mSec. Now the user can define the step duration in $0. Default setting is 10 milliseconds.
 J2 connector Fault Output pin now used as air assist (M8) port
 
-Last production firmware 32 bits MiniGerbil firmware name = MGfirmwareV8_grbl20719.hex Dated: 20-07-2019
+Previous production firmware 32 bits MiniGerbil firmware name = MGfirmwareV8_grbl20719.hex Dated: 20-07-2019
 
 8 bits AVR 328PB Legacy Gerbil firmware = grblUploadgoldnoalarmboot(1).zip
 
